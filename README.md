@@ -11,4 +11,5 @@ const persons = [
   { name: 'Sid', sex: 'M' }
 ];
 // expexted result: { M: ['John', 'Jody', 'Sid'], F: ['Susan', 'Kate'] }
-```
+``
+-ปฏิพงษศกร บุญมา(เจมส์)
